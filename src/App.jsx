@@ -600,6 +600,12 @@ export default function App(){
           alla francese. Il TAEG è una stima indicativa. Non costituisce consulenza finanziaria ai sensi 
           del D.Lgs. 58/1998 (TUF). Per un'offerta vincolante rivolgersi a un istituto di credito autorizzato.
         </p>
+        <p style={{marginTop:12,fontFamily:C.mono,fontSize:"0.58rem",textAlign:"center"}}>
+  Altri strumenti gratuiti:{" "}
+  <a href="https://calcolatore-forfettario-eight.vercel.app" target="_blank" rel="noopener" style={{color:"inherit",textDecoration:"underline",margin:"0 6px"}}>Calcolatore Regime Forfettario</a>
+  <a href="https://margine-negozio.vercel.app" target="_blank" rel="noopener" style={{color:"inherit",textDecoration:"underline",margin:"0 6px"}}>Calcolatore Margini Negozio</a>
+  <a href="https://costo-dipendente.vercel.app" target="_blank" rel="noopener" style={{color:"inherit",textDecoration:"underline",margin:"0 6px"}}>Calcolatore Costo Dipendente</a>
+</p>
       </div>
     </div>
   );
