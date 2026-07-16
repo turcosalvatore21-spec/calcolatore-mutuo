@@ -41,7 +41,7 @@ Nel footer di ogni sito del portfolio va sempre mantenuto il link incrociato agl
 - [Calcolatore Regime Forfettario](https://calcolatore-forfettario-eight.vercel.app)
 - [Calcolatore Margini Negozio](https://margine-negozio.vercel.app)
 - [Calcolatore Costo Dipendente](https://costo-dipendente.vercel.app)
-- Calcolatore Mutuo (questo sito)
+- [Calcolatore Mutuo](https://calcolatore-mutuo-one.vercel.app) (questo sito)
 
 Quando si crea un nuovo tool nel portfolio, aggiungerlo al footer di **tutti** gli altri (non solo di se stesso), mantenendo lo stesso stile del blocco "Altri strumenti gratuiti" già presente in [src/App.jsx:603](src/App.jsx:603).
 
